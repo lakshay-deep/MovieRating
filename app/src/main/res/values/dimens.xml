@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- font size -->
+    <dimen name="font_extra_large">26sp</dimen>
+    <dimen name="font_big">24sp</dimen>
+    <dimen name="font_larger">22sp</dimen>
+    <dimen name="font_large">20sp</dimen>
+    <dimen name="font_medium_large">18sp</dimen>
+    <dimen name="font_normal">16sp</dimen>
+    <dimen name="font_medium">14sp</dimen>
+    <dimen name="font_small">12sp</dimen>
+
+    <!-- padding -->
+    <dimen name="padding_huger">40dp</dimen>
+    <dimen name="padding_huge">36dp</dimen>
+    <dimen name="padding_large">30dp</dimen>
+    <dimen name="padding_big">24dp</dimen>
+    <dimen name="padding_normal_large">20dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+    <dimen name="padding_normal_small">14dp</dimen>
+    <dimen name="padding_medium">10dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_micro">4dp</dimen>
+    <dimen name="padding_nano">2dp</dimen>
+
+
+</resources>

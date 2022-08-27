@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miMovie"
+        android:title="@string/movie"
+        android:icon="@drawable/ic_movie_24"/>
+
+    <item
+        android:id="@+id/miTvShows"
+        android:title="@string/tv_shows"
+        android:icon="@drawable/ic_tv_24"/>
+
+    <item
+        android:id="@+id/miPerson"
+        android:title="@string/person"
+        android:icon="@drawable/ic_person"/>
+
+    <item
+        android:id="@+id/miTrending"
+        android:title="@string/trending"
+        android:icon="@drawable/ic_profile_24"/>
+
+</menu>

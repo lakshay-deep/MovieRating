@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieRating</string>
+
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <string name="something_went_wrong">Something went wrong</string>
+
+
+    <string name="movie">Movie</string>
+    <string name="tv_shows">TvShows</string>
+    <string name="fav">Fav</string>
+    <string name="person">Person</string>
+    <string name="profile">Profile</string>
+    <string name="trending">Trending</string>
+    <string name="search">Search</string>
+
+    <string name="image">Image</string>
+    <string name="search_for_all">Search</string>
+
+    <string name="overview">Overview</string>
+    <string name="user_score">UserScore</string>
+
+
+</resources>
